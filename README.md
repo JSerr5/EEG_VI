@@ -31,7 +31,7 @@ Estas imágenes permiten comprender mejor la evolución del proyecto y cómo se 
 
 ![ESP32_FFT](https://github.com/user-attachments/assets/c1f6f97e-029d-485d-85c3-90b580b70a7e)
 
-### Pruebas con ESP32-S3
+### Pruebas con Electrodos
 
 ![Captura de pantalla 2025-05-31 153307](https://github.com/user-attachments/assets/c6e89321-6307-485e-95c0-b0126e7185db)
 
