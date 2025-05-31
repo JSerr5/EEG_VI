@@ -9,7 +9,7 @@
 
 Este proyecto tiene como objetivo el diseño e implementación de un sistema funcional de **electroencefalograma (EEG)**, capaz de capturar y procesar señales cerebrales en tiempo real mediante una **ESP32-S3** y una PCB diseñada a medida.
 
-El sistema opera mediante una **máquina de estados finita (FSM) tipo Moore**, controlada a través de entradas táctiles (`Touch 1` y `Touch 2`). Estas transiciones permiten pasar entre las fases: reposo, captura, procesamiento y visualización del resultado.
+El sistema opera mediante una **máquina de estados finita (FSM) tipo Moore**, controlada a través de entradas táctiles (`Touch 3`). Estas transiciones permiten pasar entre las fases: reposo, captura, procesamiento y visualización del resultado.
 
 ---
 
@@ -29,20 +29,13 @@ Estas imágenes permiten comprender mejor la evolución del proyecto y cómo se 
 
 ### Implementación física
 
-![Captura de pantalla 2025-05-31 153307](https://github.com/user-attachments/assets/c6e89321-6307-485e-95c0-b0126e7185db)
+![ESP32_FFT](https://github.com/user-attachments/assets/c1f6f97e-029d-485d-85c3-90b580b70a7e)
 
 ### Pruebas con ESP32-S3
 
-![ESP32_FFT](https://github.com/user-attachments/assets/c1f6f97e-029d-485d-85c3-90b580b70a7e)
+![Captura de pantalla 2025-05-31 153307](https://github.com/user-attachments/assets/c6e89321-6307-485e-95c0-b0126e7185db)
 
 ---
-
-
-
-
-
-
-
 
 ## 🧩 Características principales
 
