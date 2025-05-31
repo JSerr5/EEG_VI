@@ -13,6 +13,37 @@ El sistema opera mediante una **máquina de estados finita (FSM) tipo Moore**, c
 
 ---
 
+
+
+---
+
+## 🖼️ Imágenes asociadas al desarrollo del proyecto
+
+A continuación se presentan algunas imágenes que ilustran el proceso de desarrollo del sistema EEG, desde la etapa de diseño de la PCB hasta la programación de la ESP32-S3 y la integración final del hardware.
+
+Estas imágenes permiten comprender mejor la evolución del proyecto y cómo se fueron incorporando cada uno de los componentes tanto físicos como lógicos.
+
+### Diseño de la PCB
+
+![EEG_PCB](https://github.com/user-attachments/assets/cf16b983-8e7f-4a75-8311-91af731f5f32)
+
+### Implementación física
+
+![Captura de pantalla 2025-05-31 153307](https://github.com/user-attachments/assets/c6e89321-6307-485e-95c0-b0126e7185db)
+
+### Pruebas con ESP32-S3
+
+![ESP32_FFT](https://github.com/user-attachments/assets/c1f6f97e-029d-485d-85c3-90b580b70a7e)
+
+---
+
+
+
+
+
+
+
+
 ## 🧩 Características principales
 
 - ✅ Captura de señales EEG por entrada analógica (ADC)
